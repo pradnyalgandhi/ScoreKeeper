@@ -9,4 +9,4 @@ GAME RULES:
  4. The player can choose to 'Hold', which means that his ROUND score gets added to his GLBAL score. After that, it's the next player's turn
  5. The first player to reach 100 points on GLOBAL score wins the game
 
->I've used a HTML and CSS to desgin the webpage and added the functionality using JavaScript.
+>I've used HTML and CSS to desgin the webpage and added the functionality using JavaScript.
