@@ -40,7 +40,6 @@ body{
 .player-name{
 	font-size: 50px;
 	text-align: center;
-	
 	letter-spacing: 2px;
 	margin-top: 50px;
 }
@@ -70,15 +69,10 @@ body{
 .active{
 	background-color:#b8b8ae;
 }
-.active .player-name { font-weight: 300; }
+.player-name { font-weight: 300; }
 .active .player-name::after {
-    content: "\2022";
-    font-size: 47px;
-    position: absolute;
-    color: #EB4D4D;
-    top: -7px;
-    right: 10px;
-    
+ content: " \2713";
+ color: #fc1c03
 }
 
 /*** Buttons***/
